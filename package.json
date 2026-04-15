@@ -96,7 +96,7 @@
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-mdx": "3.7.0",
     "format-api-docs": "file:scripts/gendocs/postprocess",
-    "globals": "17.4.0",
+    "globals": "17.5.0",
     "markdown-link-check": "3.14.2",
     "next-sitemap": "4.2.3",
     "postcss": "8.5.9",
